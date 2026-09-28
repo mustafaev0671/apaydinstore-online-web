@@ -1,0 +1,1049 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "id": "animals",
+      "name": "Hayvanlar",
+      "icon": "paw"
+    },
+    {
+      "id": "dinosaurs",
+      "name": "Dinozorlar",
+      "icon": "bone"
+    },
+    {
+      "id": "ocean",
+      "name": "Okyanuslar",
+      "icon": "wave"
+    },
+    {
+      "id": "earth",
+      "name": "Dünyamız",
+      "icon": "globe"
+    },
+    {
+      "id": "geography",
+      "name": "Coğrafya",
+      "icon": "map"
+    },
+    {
+      "id": "space",
+      "name": "Uzay",
+      "icon": "orbit"
+    },
+    {
+      "id": "science",
+      "name": "Bilim",
+      "icon": "flask"
+    },
+    {
+      "id": "physics",
+      "name": "Fizik",
+      "icon": "atom"
+    },
+    {
+      "id": "chemistry",
+      "name": "Kimya",
+      "icon": "flask"
+    },
+    {
+      "id": "biology",
+      "name": "Biyoloji",
+      "icon": "leaf"
+    },
+    {
+      "id": "body",
+      "name": "İnsan Vücudu",
+      "icon": "heart"
+    },
+    {
+      "id": "math",
+      "name": "Matematik",
+      "icon": "math"
+    },
+    {
+      "id": "turkish",
+      "name": "Türkçe",
+      "icon": "book"
+    },
+    {
+      "id": "english",
+      "name": "İngilizce",
+      "icon": "chat"
+    },
+    {
+      "id": "technology",
+      "name": "Teknoloji",
+      "icon": "chip"
+    },
+    {
+      "id": "ai",
+      "name": "Yapay Zekâ",
+      "icon": "network"
+    },
+    {
+      "id": "coding",
+      "name": "Kodlama",
+      "icon": "code"
+    },
+    {
+      "id": "history",
+      "name": "Tarih",
+      "icon": "column"
+    },
+    {
+      "id": "culture",
+      "name": "Genel Kültür",
+      "icon": "compass"
+    },
+    {
+      "id": "stories",
+      "name": "Hikâyeler",
+      "icon": "book"
+    },
+    {
+      "id": "logic",
+      "name": "Mantık",
+      "icon": "puzzle"
+    }
+  ],
+  "articles": [
+    {
+      "id": "aslan",
+      "category": "animals",
+      "title": "Aslanlar nasıl yaşar?",
+      "levels": {
+        "kids": "Aslanlar çoğunlukla gruplar hâlinde yaşayan büyük kedilerdir. Etle beslenirler.",
+        "junior": "Aslanlar çoğunlukla gruplar hâlinde yaşayan büyük kedilerdir. Etle beslenirler.\n\nAslanların yaşam alanları arasında savanlar bulunur. Dişiler sıklıkla birlikte avlanır. Bir grubun üyeleri yavruları da korur.",
+        "teen": "Aslanların yaşam alanları arasında savanlar bulunur. Dişiler sıklıkla birlikte avlanır. Bir grubun üyeleri yavruları da korur.\n\nSosyal yaşam, avlanma ve bölge savunmasında iş birliğini sağlar. Bir avcı türünün azalması besin ağının diğer parçalarını da etkileyebilir."
+      },
+      "activity": "Birlikte yaşamanın iki yararını düşün.",
+      "image": "",
+      "minutes": 2
+    },
+    {
+      "id": "arilar",
+      "category": "animals",
+      "title": "Arıların gizli görevi",
+      "levels": {
+        "kids": "Arılar çiçekleri ziyaret eder. Çiçek tozlarının taşınmasına yardım ederler.",
+        "junior": "Arılar çiçekleri ziyaret eder. Çiçek tozlarının taşınmasına yardım ederler.\n\nBir arı nektar toplarken polen vücuduna yapışabilir. Başka bir çiçeğe taşınan polen, bazı bitkilerin tohum oluşturmasına yardım eder.",
+        "teen": "Bir arı nektar toplarken polen vücuduna yapışabilir. Başka bir çiçeğe taşınan polen, bazı bitkilerin tohum oluşturmasına yardım eder.\n\nTozlaşma ile döllenme aynı olay değildir. Tozlaşma polenin taşınmasıdır; döllenme daha sonra gerçekleşebilir. Bütün arılar bal yapmaz."
+      },
+      "activity": "Arılar için çiçekli alanlar neden önemlidir?",
+      "image": "",
+      "minutes": 2
+    },
+    {
+      "id": "trex",
+      "category": "dinosaurs",
+      "title": "T. rex ile tanış",
+      "levels": {
+        "kids": "Tyrannosaurus rex, çok uzun zaman önce yaşamış etçil bir dinozordu.",
+        "junior": "Tyrannosaurus rex, çok uzun zaman önce yaşamış etçil bir dinozordu.\n\nGeç Kretase döneminde yaşayan T. rex yaklaşık 12 metre uzunluğa ulaşabiliyordu. Güçlü çenesi ve büyük dişleri vardı.",
+        "teen": "Geç Kretase döneminde yaşayan T. rex yaklaşık 12 metre uzunluğa ulaşabiliyordu. Güçlü çenesi ve büyük dişleri vardı.\n\nFosiller vücut yapısı ve beslenme hakkında kanıt verir. Kemikler davranışların her ayrıntısını göstermez; araştırmacılar farklı kanıtları birlikte değerlendirir."
+      },
+      "activity": "Bir fosilden neyi öğrenebilir, neyi kesin bilemeyiz?",
+      "image": "",
+      "minutes": 2
+    },
+    {
+      "id": "kuslar",
+      "category": "dinosaurs",
+      "title": "Dinozorlar tamamen yok oldu mu?",
+      "levels": {
+        "kids": "Bugün gördüğümüz kuşlar dinozorların yaşayan bir koludur.",
+        "junior": "Bugün gördüğümüz kuşlar dinozorların yaşayan bir koludur.\n\nKuşlar, teropod adlı dinozor grubundan evrimleşti. Tüyler yalnız uçmaya değil, sıcaklığı korumaya da yarar.",
+        "teen": "Kuşlar, teropod adlı dinozor grubundan evrimleşti. Tüyler yalnız uçmaya değil, sıcaklığı korumaya da yarar.\n\nKuş olmayan dinozorlar yaklaşık 66 milyon yıl önceki kitlesel yok oluşta kayboldu. Kuşların ataları küçük teropodlardı; kuşlar T. rex'ten türemedi."
+      },
+      "activity": "Tüylerin uçmak dışında hangi yararı olabilir?",
+      "image": "",
+      "minutes": 2
+    },
+    {
+      "id": "ahtapot",
+      "category": "ocean",
+      "title": "Üç kalpli bir canlı",
+      "levels": {
+        "kids": "Ahtapot denizde yaşar. Sekiz kolu ve üç kalbi vardır.",
+        "junior": "Ahtapot denizde yaşar. Sekiz kolu ve üç kalbi vardır.\n\nKalplerinin ikisi kanı solungaçlara, biri vücudunun geri kalanına pompalar. Ahtapotlar omurgasızdır.",
+        "teen": "Kalplerinin ikisi kanı solungaçlara, biri vücudunun geri kalanına pompalar. Ahtapotlar omurgasızdır.\n\nSolungaçlar sudan oksijen alınmasını sağlar. Ahtapotların sinir sisteminin önemli bir bölümü kollarına yayılmıştır; kollar duyusal bilgi işleyebilir."
+      },
+      "activity": "Suda yaşayan bir canlının oksijene ihtiyacı var mı?",
+      "image": "",
+      "minutes": 2
+    },
+    {
+      "id": "mercan",
+      "category": "ocean",
+      "title": "Mercan bir bitki mi?",
+      "levels": {
+        "kids": "Mercanlar bitki değil, hayvandır. Birçok küçük canlı birlikte yaşar.",
+        "junior": "Mercanlar bitki değil, hayvandır. Birçok küçük canlı birlikte yaşar.\n\nResif oluşturan mercanlar, iskeletleriyle başka canlılara yaşam alanı oluşturur. Birçoğu dokularında yaşayan alglerle ortaklık kurar.",
+        "teen": "Resif oluşturan mercanlar, iskeletleriyle başka canlılara yaşam alanı oluşturur. Birçoğu dokularında yaşayan alglerle ortaklık kurar.\n\nSıcaklık stresi bu ortaklığı bozabilir ve mercan ağarmasına yol açabilir. Ağarma hemen ölüm demek değildir; koşullar düzelmezse risk artar."
+      },
+      "activity": "Bir yaşam alanının değişmesi başka canlıları nasıl etkiler?",
+      "image": "",
+      "minutes": 2
+    },
+    {
+      "id": "sudongusu",
+      "category": "earth",
+      "title": "Bir damlanın yolculuğu",
+      "levels": {
+        "kids": "Su ısınınca buharlaşır. Bulutlardan yağmur veya kar olarak geri dönebilir.",
+        "junior": "Su ısınınca buharlaşır. Bulutlardan yağmur veya kar olarak geri dönebilir.\n\nSu döngüsünde buharlaşma, yoğunlaşma ve yağış vardır. Suyun bir kısmı toprağa sızar, bir kısmı akarsulara karışır.",
+        "teen": "Su döngüsünde buharlaşma, yoğunlaşma ve yağış vardır. Suyun bir kısmı toprağa sızar, bir kısmı akarsulara karışır.\n\nGüneş enerjisi buharlaşmayı, yer çekimi yağış ve yüzey akışını destekler. Su buzullarda ve yer altında farklı süreler boyunca depolanabilir."
+      },
+      "activity": "Bir su damlasının üç duraklı yolculuğunu çiz.",
+      "image": "",
+      "minutes": 2
+    },
+    {
+      "id": "gecegunduz",
+      "category": "earth",
+      "title": "Gece ve gündüz neden olur?",
+      "levels": {
+        "kids": "Dünya kendi çevresinde döner. Güneş'e bakan yerde gündüz olur.",
+        "junior": "Dünya kendi çevresinde döner. Güneş'e bakan yerde gündüz olur.\n\nDünya döndükçe bulunduğumuz yer aydınlık ve karanlık taraflardan geçer. Bir gün yaklaşık 24 saattir.",
+        "teen": "Dünya döndükçe bulunduğumuz yer aydınlık ve karanlık taraflardan geçer. Bir gün yaklaşık 24 saattir.\n\nMevsimleri oluşturan ana neden Dünya'nın eksen eğikliğidir. Gündüz-gece döngüsü ise kendi ekseni etrafındaki dönmesinin sonucudur."
+      },
+      "activity": "Bir top ve el feneriyle gündüzü nasıl gösterebilirsin?",
+      "image": "",
+      "minutes": 2
+    },
+    {
+      "id": "harita",
+      "category": "geography",
+      "title": "Harita nasıl okunur?",
+      "levels": {
+        "kids": "Harita, bir yerin küçültülmüş gösterimidir. Semboller farklı yerleri anlatır.",
+        "junior": "Harita, bir yerin küçültülmüş gösterimidir. Semboller farklı yerleri anlatır.\n\nÖlçek, haritadaki uzaklık ile gerçek uzaklık arasındaki ilişkiyi gösterir. Yön oku hangi tarafın kuzey olduğunu belirtir.",
+        "teen": "Ölçek, haritadaki uzaklık ile gerçek uzaklık arasındaki ilişkiyi gösterir. Yön oku hangi tarafın kuzey olduğunu belirtir.\n\nKüresel Dünya'yı düz bir yüzeye aktaran harita projeksiyonları alan, açı veya uzaklıkta bozulma oluşturur. Her harita aynı amaca uygun değildir."
+      },
+      "activity": "Odanın haritası için üç sembol tasarla.",
+      "image": "",
+      "minutes": 2
+    },
+    {
+      "id": "iklim",
+      "category": "geography",
+      "title": "Hava mı, iklim mi?",
+      "levels": {
+        "kids": "Bugün yağmur yağması hava durumudur. Bir yerin uzun yıllardaki hava özellikleri iklimdir.",
+        "junior": "Bugün yağmur yağması hava durumudur. Bir yerin uzun yıllardaki hava özellikleri iklimdir.\n\nBir günlük sıcaklıkla bir bölgenin iklimi anlaşılmaz. İklim değerlendirmeleri uzun süreli gözlemlere dayanır.",
+        "teen": "Bir günlük sıcaklıkla bir bölgenin iklimi anlaşılmaz. İklim değerlendirmeleri uzun süreli gözlemlere dayanır.\n\nİklim ortalamaların yanında değişkenlik ve aşırı olayların dağılımını da kapsar. Tek bir soğuk gün, uzun dönemli ısınma eğilimini çürütmez."
+      },
+      "activity": "Bir haftalık hava tablosu iklimi anlatmaya yeter mi?",
+      "image": "",
+      "minutes": 2
+    },
+    {
+      "id": "gunes",
+      "category": "space",
+      "title": "Güneş: bize en yakın yıldız",
+      "levels": {
+        "kids": "Güneş bir yıldızdır. Dünya'ya ışık ve enerji sağlar.",
+        "junior": "Güneş bir yıldızdır. Dünya'ya ışık ve enerji sağlar.\n\nGüneş, Güneş Sistemi'nin merkezindeki yıldızdır. Gezegenler onun çevresinde dolanır. Güneş'e doğrudan bakmak gözlere zarar verir.",
+        "teen": "Güneş, Güneş Sistemi'nin merkezindeki yıldızdır. Gezegenler onun çevresinde dolanır. Güneş'e doğrudan bakmak gözlere zarar verir.\n\nGüneş'in çekirdeğinde nükleer füzyon gerçekleşir. Hidrojen çekirdekleri birleşirken enerji açığa çıkar; bu, sıradan bir yanma tepkimesi değildir."
+      },
+      "activity": "Güneş enerjisinin günlük yaşamımızdaki iki etkisini bul.",
+      "image": "",
+      "minutes": 2
+    },
+    {
+      "id": "merkur",
+      "category": "space",
+      "title": "Merkür: Güneş'in komşusu",
+      "levels": {
+        "kids": "Merkür, Güneş'e en yakın gezegendir. Küçük ve kayalıktır.",
+        "junior": "Merkür, Güneş'e en yakın gezegendir. Küçük ve kayalıktır.\n\nMerkür'ün yüzeyinde çok sayıda krater vardır. Isıyı dağıtan kalın bir atmosferi olmadığı için sıcaklık farkları büyüktür.",
+        "teen": "Merkür'ün yüzeyinde çok sayıda krater vardır. Isıyı dağıtan kalın bir atmosferi olmadığı için sıcaklık farkları büyüktür.\n\nGüneş'e yakınlık tek başına yüzey sıcaklığını belirlemez. Atmosferin yapısı da önemlidir; bu yüzden en sıcak gezegen Merkür değildir."
+      },
+      "activity": "En yakın gezegen neden mutlaka en sıcak olmak zorunda değil?",
+      "image": "",
+      "minutes": 2
+    },
+    {
+      "id": "venus",
+      "category": "space",
+      "title": "Venüs: sıcak bir dünya",
+      "levels": {
+        "kids": "Venüs, Güneş'e yakınlıkta ikinci gezegendir. Çok kalın bir atmosferi vardır.",
+        "junior": "Venüs, Güneş'e yakınlıkta ikinci gezegendir. Çok kalın bir atmosferi vardır.\n\nVenüs'ün yoğun atmosferi güçlü bir sera etkisi oluşturur. Bu yüzden yüzeyi Merkür'den bile daha sıcaktır.",
+        "teen": "Venüs'ün yoğun atmosferi güçlü bir sera etkisi oluşturur. Bu yüzden yüzeyi Merkür'den bile daha sıcaktır.\n\nAtmosferindeki karbondioksit, yüzeyden yayılan kızılötesi ışınımın uzaya çıkışını etkiler. Sera etkisi gezegenlerin enerji dengesinde belirleyicidir."
+      },
+      "activity": "Bir gezegenin sıcaklığını neler belirler?",
+      "image": "",
+      "minutes": 2
+    },
+    {
+      "id": "dunya",
+      "category": "space",
+      "title": "Dünya: mavi evimiz",
+      "levels": {
+        "kids": "Dünya bizim gezegenimizdir. Yüzeyinde sıvı su ve yaşam vardır.",
+        "junior": "Dünya bizim gezegenimizdir. Yüzeyinde sıvı su ve yaşam vardır.\n\nDünya Güneş'e yakınlıkta üçüncü gezegendir. Atmosferi ve sıvı suyu, bildiğimiz yaşam için elverişli koşullar sağlar.",
+        "teen": "Dünya Güneş'e yakınlıkta üçüncü gezegendir. Atmosferi ve sıvı suyu, bildiğimiz yaşam için elverişli koşullar sağlar.\n\nDünya, üzerinde yaşam olduğu doğrulanmış tek gezegendir. Başka yerde yaşamın henüz bulunmaması, kesinlikle olmadığı anlamına gelmez."
+      },
+      "activity": "Bir gezegende yaşam ararken hangi kanıtlara bakardın?",
+      "image": "",
+      "minutes": 2
+    },
+    {
+      "id": "ay",
+      "category": "space",
+      "title": "Ay neden şekil değiştirir?",
+      "levels": {
+        "kids": "Ay kendi ışığını üretmez. Güneş'in ışığını yansıtır.",
+        "junior": "Ay kendi ışığını üretmez. Güneş'in ışığını yansıtır.\n\nAy Dünya'nın etrafında dolandıkça aydınlık yüzünün farklı kısımlarını görürüz. Bunlara Ay'ın evreleri denir.",
+        "teen": "Ay Dünya'nın etrafında dolandıkça aydınlık yüzünün farklı kısımlarını görürüz. Bunlara Ay'ın evreleri denir.\n\nNormal Ay evreleri Dünya'nın gölgesinden oluşmaz. Dünya'nın gölgesinin Ay'a düşmesi Ay tutulmasıdır ve belirli hizalanmalarda gerçekleşir."
+      },
+      "activity": "Hilal gördüğümüzde Ay'ın geri kalanı yok olmuş mudur?",
+      "image": "",
+      "minutes": 2
+    },
+    {
+      "id": "mars",
+      "category": "space",
+      "title": "Mars: kızıl gezegen",
+      "levels": {
+        "kids": "Mars, yüzeyindeki demir içeren mineraller nedeniyle kızılımsı görünür.",
+        "junior": "Mars, yüzeyindeki demir içeren mineraller nedeniyle kızılımsı görünür.\n\nMars kayalık bir gezegendir. Robot araçlar yüzeyini inceler. Mars'ın ince atmosferi çoğunlukla karbondioksitten oluşur.",
+        "teen": "Mars kayalık bir gezegendir. Robot araçlar yüzeyini inceler. Mars'ın ince atmosferi çoğunlukla karbondioksitten oluşur.\n\nEski nehir yatakları ve mineraller geçmişte sıvı su bulunduğuna ilişkin kanıtlardır. Bu kanıtlar tek başına yaşamın varlığını kanıtlamaz."
+      },
+      "activity": "Bir robotla Mars'ta ilk neyi incelemek isterdin?",
+      "image": "",
+      "minutes": 2
+    },
+    {
+      "id": "jupiter",
+      "category": "space",
+      "title": "Jüpiter: dev gezegen",
+      "levels": {
+        "kids": "Jüpiter, Güneş Sistemi'ndeki en büyük gezegendir.",
+        "junior": "Jüpiter, Güneş Sistemi'ndeki en büyük gezegendir.\n\nJüpiter bir gaz devidir. Görünür bulutları şeritler oluşturur; Büyük Kırmızı Leke uzun ömürlü bir fırtınadır.",
+        "teen": "Jüpiter bir gaz devidir. Görünür bulutları şeritler oluşturur; Büyük Kırmızı Leke uzun ömürlü bir fırtınadır.\n\nJüpiter'in çoğu hidrojen ve helyumdur. Dünya'daki gibi üzerinde yürünecek belirgin katı bir yüzeyi yoktur."
+      },
+      "activity": "Bir gaz devine iniş yapmak neden zor olabilir?",
+      "image": "",
+      "minutes": 2
+    },
+    {
+      "id": "saturn",
+      "category": "space",
+      "title": "Satürn'ün halkaları",
+      "levels": {
+        "kids": "Satürn, büyük ve belirgin halkalarıyla tanınır.",
+        "junior": "Satürn, büyük ve belirgin halkalarıyla tanınır.\n\nHalkaları tek parça değildir; çok sayıda buz ve kaya parçacığından oluşur. Satürn bir gaz devidir.",
+        "teen": "Halkaları tek parça değildir; çok sayıda buz ve kaya parçacığından oluşur. Satürn bir gaz devidir.\n\nHalka parçacıkları gezegenin çevresinde farklı yörüngelerde dolanır. Halkası olan tek gezegen Satürn değildir; diğer dev gezegenlerin de halkaları vardır."
+      },
+      "activity": "Uzaktan tek parça görünen başka hangi şey çok parçadan oluşur?",
+      "image": "",
+      "minutes": 2
+    },
+    {
+      "id": "uranus",
+      "category": "space",
+      "title": "Uranüs: yana yatmış dev",
+      "levels": {
+        "kids": "Uranüs, Güneş'ten yedinci gezegendir. Bir buz devidir.",
+        "junior": "Uranüs, Güneş'ten yedinci gezegendir. Bir buz devidir.\n\nUranüs'ün dönme ekseni çok eğiktir. Bu yüzden diğer gezegenlere göre yana yatmış gibi döner.",
+        "teen": "Uranüs'ün dönme ekseni çok eğiktir. Bu yüzden diğer gezegenlere göre yana yatmış gibi döner.\n\nBuz devi sınıflandırması, bileşiminin Jüpiter ve Satürn'den farklı olmasına dayanır. Bu ad, görünen yüzeyin sıradan katı buzdan oluştuğu anlamına gelmez."
+      },
+      "activity": "Eksen eğikliği mevsimleri nasıl değiştirebilir?",
+      "image": "",
+      "minutes": 2
+    },
+    {
+      "id": "neptun",
+      "category": "space",
+      "title": "Neptün: uzak mavi dünya",
+      "levels": {
+        "kids": "Neptün, sekiz gezegenin Güneş'e en uzak olanıdır.",
+        "junior": "Neptün, sekiz gezegenin Güneş'e en uzak olanıdır.\n\nNeptün bir buz devidir. Güneş'e uzak olduğu için bir turunu tamamlaması Dünya'ya göre çok uzun sürer.",
+        "teen": "Neptün bir buz devidir. Güneş'e uzak olduğu için bir turunu tamamlaması Dünya'ya göre çok uzun sürer.\n\nYörüngesi daha büyük olan gezegenler genellikle daha uzun dolanma dönemlerine sahiptir. Neptün'ün atmosferinde çok güçlü rüzgârlar gözlenir."
+      },
+      "activity": "Daha büyük bir yörüngeyi tamamlamak nasıl bir fark yaratır?",
+      "image": "",
+      "minutes": 2
+    },
+    {
+      "id": "karadelik",
+      "category": "space",
+      "title": "Kara delik nedir?",
+      "levels": {
+        "kids": "Kara delik, çok güçlü çekimi olan bir uzay bölgesidir.",
+        "junior": "Kara delik, çok güçlü çekimi olan bir uzay bölgesidir.\n\nOlay ufku denilen sınırın içinden ışık bile dışarı çıkamaz. Kara delikler uzaktaki her şeyi otomatik olarak içine çekmez.",
+        "teen": "Olay ufku denilen sınırın içinden ışık bile dışarı çıkamaz. Kara delikler uzaktaki her şeyi otomatik olarak içine çekmez.\n\nOlay ufku bir katı yüzey değildir. Kara deliğin etkisi kütlesine ve uzaklığa bağlıdır. Çevresindeki sıcak madde ışık yayabilir; bu ışık içeriden gelmez."
+      },
+      "activity": "Bir şeyi doğrudan göremesek de etkisinden varlığını anlayabilir miyiz?",
+      "image": "",
+      "minutes": 2
+    },
+    {
+      "id": "galaksi",
+      "category": "space",
+      "title": "Yıldızların büyük şehri",
+      "levels": {
+        "kids": "Galaksi, pek çok yıldızın bulunduğu büyük bir sistemdir. Biz Samanyolu'ndayız.",
+        "junior": "Galaksi, pek çok yıldızın bulunduğu büyük bir sistemdir. Biz Samanyolu'ndayız.\n\nBir galakside yıldızların yanında gaz ve toz da bulunur. Güneş, Samanyolu'ndaki çok sayıda yıldızdan yalnızca biridir.",
+        "teen": "Bir galakside yıldızların yanında gaz ve toz da bulunur. Güneş, Samanyolu'ndaki çok sayıda yıldızdan yalnızca biridir.\n\nGalaksilerin hareketleri, gözlenen maddeden daha fazla kütle bulunduğunu düşündürür. Karanlık madde doğrudan ışık yaymasıyla değil, kütle çekimsel etkileriyle araştırılır."
+      },
+      "activity": "Güneş Sistemi ile galaksi arasındaki fark nedir?",
+      "image": "",
+      "minutes": 2
+    },
+    {
+      "id": "uzayaraci",
+      "category": "space",
+      "title": "Robot kâşifler",
+      "levels": {
+        "kids": "Uzay araçları insanların gidemediği yerlerden bilgi gönderebilir.",
+        "junior": "Uzay araçları insanların gidemediği yerlerden bilgi gönderebilir.\n\nYörünge araçları gezegenlerin çevresinde dolanır; iniş araçları yüzeye ulaşır. Astronotlar yaşam destek sistemlerine ihtiyaç duyar.",
+        "teen": "Yörünge araçları gezegenlerin çevresinde dolanır; iniş araçları yüzeye ulaşır. Astronotlar yaşam destek sistemlerine ihtiyaç duyar.\n\nİletişimdeki gecikme nedeniyle uzaktaki robotlar bazı görevleri kendi programlarıyla yürütür. Bir aracın enerjisi, kütlesi ve veri kapasitesi tasarımını sınırlar."
+      },
+      "activity": "Bir Mars robotuna yalnız üç araç takabilsen neleri seçerdin?",
+      "image": "",
+      "minutes": 2
+    },
+    {
+      "id": "gozlem",
+      "category": "science",
+      "title": "Bir bilim insanı gibi düşün",
+      "levels": {
+        "kids": "Bilim, sorular sormak ve dikkatle gözlem yapmaktır.",
+        "junior": "Bilim, sorular sormak ve dikkatle gözlem yapmaktır.\n\nBir tahmini deneyle sınayabiliriz. Sonuç tahminimizden farklıysa bunu saklamak yerine yeni bir açıklama ararız.",
+        "teen": "Bir tahmini deneyle sınayabiliriz. Sonuç tahminimizden farklıysa bunu saklamak yerine yeni bir açıklama ararız.\n\nBir hipotez sınanabilir olmalıdır. Tek bir deneyin sonucu, ölçüm belirsizliği ve alternatif açıklamalarla birlikte değerlendirilir."
+      },
+      "activity": "Kağıt uçaklardan hangisinin daha uzağa gittiğini adil biçimde nasıl test edersin?",
+      "image": "",
+      "minutes": 2
+    },
+    {
+      "id": "deney",
+      "category": "science",
+      "title": "Kâğıt köprü deneyi",
+      "levels": {
+        "kids": "Bir kâğıdı katlayınca daha sağlam bir köprü yapabilir misin? Bir yetişkinle dene.",
+        "junior": "Bir kâğıdı katlayınca daha sağlam bir köprü yapabilir misin? Bir yetişkinle dene.\n\nİki kitabı aralıklı koy. Arasına düz kâğıt, sonra akordeon katlanmış kâğıt yerleştir. Hafif kâğıt parçalarıyla taşıma gücünü karşılaştır.",
+        "teen": "İki kitabı aralıklı koy. Arasına düz kâğıt, sonra akordeon katlanmış kâğıt yerleştir. Hafif kâğıt parçalarıyla taşıma gücünü karşılaştır.\n\nAynı kâğıt, açıklık ve yükü kullanarak sadece biçimi değiştir. Deneyi birkaç kez tekrarla. Sonucu şekil ile eğilme direnci arasındaki ilişki üzerinden yorumla."
+      },
+      "activity": "Hangi değişkeni değiştirdin, hangilerini sabit tuttun?",
+      "image": "",
+      "minutes": 2
+    },
+    {
+      "id": "isik",
+      "category": "physics",
+      "title": "Işık nasıl yol alır?",
+      "levels": {
+        "kids": "Işık cisimleri görmemizi sağlar. Ayna ışığı yansıtır.",
+        "junior": "Işık cisimleri görmemizi sağlar. Ayna ışığı yansıtır.\n\nIşık, düzgün bir ortamda doğrusal yayılır. Saydam ortam değişince yönü değişebilir; buna kırılma denir.",
+        "teen": "Işık, düzgün bir ortamda doğrusal yayılır. Saydam ortam değişince yönü değişebilir; buna kırılma denir.\n\nIşığın boşluktaki hızı yaklaşık 300 bin kilometre/saniyedir. Farklı ortamlardaki yayılma hızı değişir. Kırılma bu değişimle ilişkilidir."
+      },
+      "activity": "Suyun içindeki bir pipet neden kırılmış gibi görünebilir?",
+      "image": "",
+      "minutes": 2
+    },
+    {
+      "id": "kuvvet",
+      "category": "physics",
+      "title": "İtmek, çekmek, hareket",
+      "levels": {
+        "kids": "Bir cismi itmek ya da çekmek ona kuvvet uygulamaktır.",
+        "junior": "Bir cismi itmek ya da çekmek ona kuvvet uygulamaktır.\n\nKuvvet cismin hızını, yönünü veya şeklini değiştirebilir. Sürtünme çoğu zaman hareketi zorlaştırır.",
+        "teen": "Kuvvet cismin hızını, yönünü veya şeklini değiştirebilir. Sürtünme çoğu zaman hareketi zorlaştırır.\n\nNet kuvvet, cismin ivmesini belirler. Newton'un ikinci yasası F = m × a ile ifade edilir. Hızın sabit olması net kuvvetin sıfır olmasıyla uyumludur."
+      },
+      "activity": "Aynı kuvvetle hafif ve ağır iki arabayı itersek ne değişebilir?",
+      "image": "",
+      "minutes": 2
+    },
+    {
+      "id": "atom",
+      "category": "chemistry",
+      "title": "Maddenin küçük yapı taşları",
+      "levels": {
+        "kids": "Su, hava ve taş maddeden oluşur. Maddede atom denilen çok küçük parçalar vardır.",
+        "junior": "Su, hava ve taş maddeden oluşur. Maddede atom denilen çok küçük parçalar vardır.\n\nAtomlar birleşerek moleküller oluşturabilir. Bir su molekülünde iki hidrojen ve bir oksijen atomu bulunur.",
+        "teen": "Atomlar birleşerek moleküller oluşturabilir. Bir su molekülünde iki hidrojen ve bir oksijen atomu bulunur.\n\nAtomun çekirdeğinde protonlar ve nötronlar, çevresinde elektronlar bulunur. Elementin kimliğini proton sayısı belirler. Bazı hidrojen çekirdeklerinde nötron yoktur."
+      },
+      "activity": "H₂O yazısındaki 2 hangi atomun sayısını gösterir?",
+      "image": "",
+      "minutes": 2
+    },
+    {
+      "id": "haller",
+      "category": "chemistry",
+      "title": "Buz, su ve buhar",
+      "levels": {
+        "kids": "Buz katı, su sıvıdır. Su buharı gaz hâlidir.",
+        "junior": "Buz katı, su sıvıdır. Su buharı gaz hâlidir.\n\nErime katıdan sıvıya, donma sıvıdan katıya geçiştir. Su buharı görünmez; gördüğümüz beyaz sis küçük damlacıklardır.",
+        "teen": "Erime katıdan sıvıya, donma sıvıdan katıya geçiştir. Su buharı görünmez; gördüğümüz beyaz sis küçük damlacıklardır.\n\nHâl değişiminde taneciklerin düzeni ve enerjisi değişir. Kaynama sıcaklığı basınca bağlıdır; su her koşulda aynı sıcaklıkta kaynamaz."
+      },
+      "activity": "Buz eriyince farklı bir maddeye mi dönüşür?",
+      "image": "",
+      "minutes": 2
+    },
+    {
+      "id": "fotosentez",
+      "category": "biology",
+      "title": "Yaprakların güneş mutfağı",
+      "levels": {
+        "kids": "Bitkiler ışığı kullanarak kendi besinlerini üretebilir.",
+        "junior": "Bitkiler ışığı kullanarak kendi besinlerini üretebilir.\n\nFotosentez sırasında su ve karbondioksit kullanılarak şeker üretilir. Oksijen açığa çıkar.",
+        "teen": "Fotosentez sırasında su ve karbondioksit kullanılarak şeker üretilir. Oksijen açığa çıkar.\n\nFotosentez ışık enerjisini kimyasal enerjiye dönüştürür. Bitkiler aynı zamanda hücresel solunum da yapar; yalnızca oksijen üreten canlılar değildir."
+      },
+      "activity": "Bir bitkinin büyümesi için sadece toprak yeterli midir?",
+      "image": "",
+      "minutes": 2
+    },
+    {
+      "id": "hucre",
+      "category": "biology",
+      "title": "Canlıların küçük odaları",
+      "levels": {
+        "kids": "Canlılar hücrelerden oluşur. Hücreler çok küçüktür.",
+        "junior": "Canlılar hücrelerden oluşur. Hücreler çok küçüktür.\n\nHücre zarı, hücrenin çevresiyle madde alışverişini düzenler. Bitki hücrelerinde ayrıca hücre duvarı bulunur.",
+        "teen": "Hücre zarı, hücrenin çevresiyle madde alışverişini düzenler. Bitki hücrelerinde ayrıca hücre duvarı bulunur.\n\nHücrelerin yapısı görevleriyle ilişkilidir. Bakteriler çekirdeksiz hücrelerdir; genetik malzemeleri yine vardır. Bütün hücreler aynı organellere sahip değildir."
+      },
+      "activity": "Bir sinir hücresi ile yaprak hücresi neden farklı olabilir?",
+      "image": "",
+      "minutes": 2
+    },
+    {
+      "id": "kalp",
+      "category": "body",
+      "title": "Kalbin hiç durmayan işi",
+      "levels": {
+        "kids": "Kalp, kanı vücudunda dolaştıran bir kastır.",
+        "junior": "Kalp, kanı vücudunda dolaştıran bir kastır.\n\nKan, hücrelere oksijen ve besin taşır. Akciğerler havadan oksijen alınmasına yardım eder.",
+        "teen": "Kan, hücrelere oksijen ve besin taşır. Akciğerler havadan oksijen alınmasına yardım eder.\n\nİnsan kalbinin dört odacığı vardır. Küçük dolaşım akciğerlerle, büyük dolaşım vücudun geri kalanıyla ilişkilidir. Damarlar yalnız renkleriyle sınıflandırılmaz."
+      },
+      "activity": "Koşunca vücudunun oksijen ihtiyacı nasıl değişir?",
+      "image": "",
+      "minutes": 2
+    },
+    {
+      "id": "beyin",
+      "category": "body",
+      "title": "Öğrenen beyin",
+      "levels": {
+        "kids": "Beynin düşünmene, hareket etmene ve öğrenmene yardım eder.",
+        "junior": "Beynin düşünmene, hareket etmene ve öğrenmene yardım eder.\n\nSinir hücreleri birbirleriyle iletişim kurar. Tekrar, uyku ve dinlenme öğrenmeyi destekler.",
+        "teen": "Sinir hücreleri birbirleriyle iletişim kurar. Tekrar, uyku ve dinlenme öğrenmeyi destekler.\n\nÖğrenme, sinir ağlarındaki bağlantıların değişmesiyle ilişkilidir. Beynimizin sadece yüzde onunu kullandığımız iddiası doğru değildir."
+      },
+      "activity": "Yeni bir beceriyi küçük adımlara nasıl bölersin?",
+      "image": "",
+      "minutes": 2
+    },
+    {
+      "id": "kesir",
+      "category": "math",
+      "title": "Bir bütünü paylaş",
+      "levels": {
+        "kids": "Bir elmayı iki eş parçaya bölersen her parça yarımdır.",
+        "junior": "Bir elmayı iki eş parçaya bölersen her parça yarımdır.\n\nKesirde pay kaç parça aldığımızı, payda bütünün kaç eş parçaya bölündüğünü gösterir. 2/4 ile 1/2 aynı miktarı anlatır.",
+        "teen": "Kesirde pay kaç parça aldığımızı, payda bütünün kaç eş parçaya bölündüğünü gösterir. 2/4 ile 1/2 aynı miktarı anlatır.\n\nEş değer kesirler pay ve paydayı aynı sıfırdan farklı sayıyla çarparak elde edilir. Kesirleri toplarken ortak payda kullanmak parçaları aynı birime getirir."
+      },
+      "activity": "Bir pizzanın 3/8'i yenirse ne kadarı kalır?",
+      "image": "",
+      "minutes": 2
+    },
+    {
+      "id": "asal",
+      "category": "math",
+      "title": "Sayıların yapı taşları",
+      "levels": {
+        "kids": "Bazı sayıları eş gruplara ayırmak kolaydır. 6 nesneyi ikişerli üç gruba ayırabilirsin.",
+        "junior": "Bazı sayıları eş gruplara ayırmak kolaydır. 6 nesneyi ikişerli üç gruba ayırabilirsin.\n\n1'den büyük, yalnızca 1'e ve kendisine bölünen doğal sayılara asal sayı denir. 2, 3, 5 ve 7 asaldır; 1 asal değildir.",
+        "teen": "1'den büyük, yalnızca 1'e ve kendisine bölünen doğal sayılara asal sayı denir. 2, 3, 5 ve 7 asaldır; 1 asal değildir.\n\nHer 1'den büyük tam sayı asal çarpanlara ayrılabilir. 60 = 2 × 2 × 3 × 5. Bu ayrışım, çarpanların sırası dışında tektir."
+      },
+      "activity": "12 ile 13'ten hangisi asal? Neden?",
+      "image": "",
+      "minutes": 2
+    },
+    {
+      "id": "sozcuk",
+      "category": "turkish",
+      "title": "Kelimelerin ailesi",
+      "levels": {
+        "kids": "Bazı kelimeler yakın anlamlar taşır. Öğrenci ve talebe buna örnektir.",
+        "junior": "Bazı kelimeler yakın anlamlar taşır. Öğrenci ve talebe buna örnektir.\n\nEş anlamlı sözcükler benzer anlamlıdır; her cümlede birbirinin yerine kullanılamayabilir. Bağlam anlamı belirler.",
+        "teen": "Eş anlamlı sözcükler benzer anlamlıdır; her cümlede birbirinin yerine kullanılamayabilir. Bağlam anlamı belirler.\n\nBir sözcüğün anlamı, kullanıldığı cümle ve anlatım amacına göre değişebilir. Mecaz anlam, gerçek anlamla kurulan bir ilişki üzerinden oluşur."
+      },
+      "activity": "“Sıcak bir gülümseme” sözünde sıcak gerçek anlamda mı?",
+      "image": "",
+      "minutes": 2
+    },
+    {
+      "id": "noktalama",
+      "category": "turkish",
+      "title": "Cümlelere nefes aldır",
+      "levels": {
+        "kids": "Nokta cümleyi bitirir. Soru işareti soru cümlesinin sonuna gelir.",
+        "junior": "Nokta cümleyi bitirir. Soru işareti soru cümlesinin sonuna gelir.\n\nVirgül, sıralanan kelimeleri ayırabilir. Noktalama, bir metni anlamamızı kolaylaştırır.",
+        "teen": "Virgül, sıralanan kelimeleri ayırabilir. Noktalama, bir metni anlamamızı kolaylaştırır.\n\nNoktalama anlam belirsizliklerini azaltır. Seslenmelerden sonra virgül kullanılır. Bir işaretin seçimi cümlenin yapısına bağlıdır."
+      },
+      "activity": "“Merhaba Ece nasılsın” cümlesine işaretleri ekle.",
+      "image": "",
+      "minutes": 2
+    },
+    {
+      "id": "englishcolors",
+      "category": "english",
+      "title": "Colours: renkleri keşfet",
+      "levels": {
+        "kids": "Blue mavi, green yeşil, red kırmızı demektir.",
+        "junior": "Blue mavi, green yeşil, red kırmızı demektir.\n\n“The sky is blue.” cümlesi “Gökyüzü mavidir.” anlamına gelir. Renk adları nesneleri tanımlamak için kullanılır.",
+        "teen": "“The sky is blue.” cümlesi “Gökyüzü mavidir.” anlamına gelir. Renk adları nesneleri tanımlamak için kullanılır.\n\nİngilizcede sıfat genellikle isimden önce gelir: “a green leaf”. Colours Britanya, colors Amerikan İngilizcesindeki yazımdır."
+      },
+      "activity": "Çevrende gördüğün üç nesnenin rengini İngilizce söyle.",
+      "image": "",
+      "minutes": 2
+    },
+    {
+      "id": "englishspace",
+      "category": "english",
+      "title": "Uzayın İngilizcesi",
+      "levels": {
+        "kids": "Sun Güneş, Moon Ay, star yıldız demektir.",
+        "junior": "Sun Güneş, Moon Ay, star yıldız demektir.\n\n“Earth is a planet.”, “Dünya bir gezegendir.” demektir. Planet gezegen, orbit yörünge anlamında kullanılabilir.",
+        "teen": "“Earth is a planet.”, “Dünya bir gezegendir.” demektir. Planet gezegen, orbit yörünge anlamında kullanılabilir.\n\n“The Earth orbits the Sun.” cümlesinde orbits bir fiildir. Geniş zamanda üçüncü tekil özne için çoğu fiile -s gelir."
+      },
+      "activity": "“Mars is a planet.” cümlesini Türkçeye çevir.",
+      "image": "",
+      "minutes": 2
+    },
+    {
+      "id": "internet",
+      "category": "technology",
+      "title": "İnternet nasıl çalışır?",
+      "levels": {
+        "kids": "İnternet, birbirine bağlı bilgisayarların bilgi paylaşmasını sağlar.",
+        "junior": "İnternet, birbirine bağlı bilgisayarların bilgi paylaşmasını sağlar.\n\nBir web sayfasını açtığında cihazın bir sunucudan veri ister. Veriler ağ üzerinde küçük paketler hâlinde taşınır.",
+        "teen": "Bir web sayfasını açtığında cihazın bir sunucudan veri ister. Veriler ağ üzerinde küçük paketler hâlinde taşınır.\n\nDNS alan adlarını ağ adresleriyle eşleştirmeye yardım eder. HTTPS aktarımı şifreler; ancak bir sitenin doğru bilgi verdiğini tek başına kanıtlamaz."
+      },
+      "activity": "Bir web sitesinin güvenilirliğini anlamak için neleri kontrol edersin?",
+      "image": "",
+      "minutes": 2
+    },
+    {
+      "id": "robot",
+      "category": "technology",
+      "title": "Robot ve yapay zekâ aynı mı?",
+      "levels": {
+        "kids": "Robot, bir işi yapmak için tasarlanan bir makinedir. Her robot düşünmez.",
+        "junior": "Robot, bir işi yapmak için tasarlanan bir makinedir. Her robot düşünmez.\n\nBazı robotlar yalnızca önceden yazılmış komutları izler. Yapay zekâ bir telefonda da çalışabilir; robot gövdesine ihtiyacı yoktur.",
+        "teen": "Bazı robotlar yalnızca önceden yazılmış komutları izler. Yapay zekâ bir telefonda da çalışabilir; robot gövdesine ihtiyacı yoktur.\n\nSensörler çevreden veri toplar, kontrol sistemi karar verir, eyleyiciler hareket üretir. Yapay zekâ bu sistemin bir parçası olabilir; zorunlu değildir."
+      },
+      "activity": "Otomatik bir kapı ile öğrenen bir sistem arasındaki farkı düşün.",
+      "image": "",
+      "minutes": 2
+    },
+    {
+      "id": "aiogrenme",
+      "category": "ai",
+      "title": "Yapay zekâ nasıl öğrenir?",
+      "levels": {
+        "kids": "Yapay zekâ bazı görevleri yapmak için bilgisayarlarda kullanılan yöntemlerdir.",
+        "junior": "Yapay zekâ bazı görevleri yapmak için bilgisayarlarda kullanılan yöntemlerdir.\n\nBir model, örneklerdeki örüntüleri öğrenebilir. Kedi fotoğraflarıyla eğitilen sistem yeni bir fotoğrafı sınıflandırmaya çalışabilir.",
+        "teen": "Bir model, örneklerdeki örüntüleri öğrenebilir. Kedi fotoğraflarıyla eğitilen sistem yeni bir fotoğrafı sınıflandırmaya çalışabilir.\n\nEğitim verisi ile değerlendirme verisini ayırmak, ezberleme ile genellemeyi ayırt etmeye yardım eder. Dengesiz veri, bazı gruplarda daha çok hataya yol açabilir."
+      },
+      "activity": "Yalnız kırmızı elmalar gören bir model yeşil elmayı tanıyabilir mi?",
+      "image": "",
+      "minutes": 2
+    },
+    {
+      "id": "dilmodeli",
+      "category": "ai",
+      "title": "Bir dil modeli nasıl yazar?",
+      "levels": {
+        "kids": "Bazı yapay zekâ sistemleri yazı üretebilir. Yanlış cevaplar da verebilir.",
+        "junior": "Bazı yapay zekâ sistemleri yazı üretebilir. Yanlış cevaplar da verebilir.\n\nDil modelleri metinlerdeki örüntülerden yararlanarak devam eden kelime parçalarını tahmin eder. Akıcı yazmak, her zaman doğru olmak değildir.",
+        "teen": "Dil modelleri metinlerdeki örüntülerden yararlanarak devam eden kelime parçalarını tahmin eder. Akıcı yazmak, her zaman doğru olmak değildir.\n\nDil modelleri bağlama göre token dizileri üretir. Gerçekte var olmayan kaynaklar veya bilgiler üretebildikleri için önemli iddialar güvenilir kaynaklarla doğrulanmalıdır."
+      },
+      "activity": "Bir yapay zekâ cevabını doğrulamak için iki adım yaz.",
+      "image": "",
+      "minutes": 2
+    },
+    {
+      "id": "algoritma",
+      "category": "coding",
+      "title": "Bir görevi adımlara böl",
+      "levels": {
+        "kids": "Bir işi sırayla anlatan adımlara algoritma denir.",
+        "junior": "Bir işi sırayla anlatan adımlara algoritma denir.\n\nBir tarifi uygulamak gibi, bilgisayara da açık adımlar verilir. “Eğer yağmur varsa şemsiye al” bir koşul örneğidir.",
+        "teen": "Bir tarifi uygulamak gibi, bilgisayara da açık adımlar verilir. “Eğer yağmur varsa şemsiye al” bir koşul örneğidir.\n\nAlgoritmada sıra, koşul ve döngü temel kontrol yapılarıdır. Aynı işi yapan iki algoritma zaman ve bellek gereksinimleri bakımından farklı olabilir."
+      },
+      "activity": "Diş fırçalamayı beş açık adımda anlat.",
+      "image": "",
+      "minutes": 2
+    },
+    {
+      "id": "webkod",
+      "category": "coding",
+      "title": "Bir web sayfasının üç dili",
+      "levels": {
+        "kids": "Web sayfalarının yazıları, renkleri ve hareketleri kodlarla hazırlanır.",
+        "junior": "Web sayfalarının yazıları, renkleri ve hareketleri kodlarla hazırlanır.\n\nHTML içerik yapısını, CSS görünümü, JavaScript etkileşimleri düzenler. Değişkenler değerleri saklamak için adlandırılır.",
+        "teen": "HTML içerik yapısını, CSS görünümü, JavaScript etkileşimleri düzenler. Değişkenler değerleri saklamak için adlandırılır.\n\nFonksiyonlar tekrar kullanılabilir işlemler tanımlar. Döngüler işleri tekrarlar, koşullar akışı değiştirir. Tarayıcıdaki JavaScript, DOM üzerinden sayfayı güncelleyebilir."
+      },
+      "activity": "Kod laboratuvarında tekrar sayısını değiştirince ne oluyor?",
+      "image": "",
+      "minutes": 2
+    },
+    {
+      "id": "yazi",
+      "category": "history",
+      "title": "Yazının yolculuğu",
+      "levels": {
+        "kids": "İnsanlar çok eskiden beri bilgilerini çizim ve yazıyla paylaşır.",
+        "junior": "İnsanlar çok eskiden beri bilgilerini çizim ve yazıyla paylaşır.\n\nMezopotamya'daki çivi yazısı en eski yazı sistemleri arasındadır. Kil tabletler kayıt tutmak için kullanıldı.",
+        "teen": "Mezopotamya'daki çivi yazısı en eski yazı sistemleri arasındadır. Kil tabletler kayıt tutmak için kullanıldı.\n\nYazı tek bir anda bugünkü biçimine ulaşmadı. Yönetim, ticaret ve kültürel ihtiyaçlarla farklı bölgelerde çeşitli yazı sistemleri gelişti."
+      },
+      "activity": "Yazı olmasaydı uzak geçmişten neleri öğrenmek zorlaşırdı?",
+      "image": "",
+      "minutes": 2
+    },
+    {
+      "id": "cumhuriyet",
+      "category": "history",
+      "title": "29 Ekim 1923",
+      "levels": {
+        "kids": "Türkiye'de Cumhuriyet 29 Ekim 1923'te ilan edildi.",
+        "junior": "Türkiye'de Cumhuriyet 29 Ekim 1923'te ilan edildi.\n\nCumhuriyetin ilanıyla devletin yönetim biçimi belirlendi. Mustafa Kemal Atatürk ilk cumhurbaşkanı seçildi.",
+        "teen": "Cumhuriyetin ilanıyla devletin yönetim biçimi belirlendi. Mustafa Kemal Atatürk ilk cumhurbaşkanı seçildi.\n\nTarihsel bir olayı incelerken dönemin belgeleri, öncesindeki gelişmeler ve farklı kaynaklar birlikte değerlendirilir. Birincil kaynak ile sonradan yapılan yorum ayrılmalıdır."
+      },
+      "activity": "Bir olayın tarihini öğrenmekle nedenlerini anlamak aynı şey mi?",
+      "image": "",
+      "minutes": 2
+    },
+    {
+      "id": "braille",
+      "category": "culture",
+      "title": "Parmaklarla okunan yazı",
+      "levels": {
+        "kids": "Braille, kabartma noktalarla okunan bir yazı sistemidir.",
+        "junior": "Braille, kabartma noktalarla okunan bir yazı sistemidir.\n\nNoktaların farklı dizilişleri harf ve işaretleri gösterir. İnsanlar bu noktaları dokunarak okuyabilir.",
+        "teen": "Noktaların farklı dizilişleri harf ve işaretleri gösterir. İnsanlar bu noktaları dokunarak okuyabilir.\n\nBraille kendi başına bir dil değil, farklı dillerin yazılabildiği bir sistemdir. Erişilebilir tasarım, bilgiyi birden fazla duyuyla sunmayı destekler."
+      },
+      "activity": "Görmeden kullanılabilen bir eşya nasıl tasarlanır?",
+      "image": "",
+      "minutes": 2
+    },
+    {
+      "id": "kaynak",
+      "category": "culture",
+      "title": "Her duyduğumuz doğru mu?",
+      "levels": {
+        "kids": "Bir bilgiye şaşırınca hemen inanmak yerine nereden geldiğini sor.",
+        "junior": "Bir bilgiye şaşırınca hemen inanmak yerine nereden geldiğini sor.\n\nYazarı, tarihi ve kanıtı kontrol et. Aynı iddianın kopyalandığı birçok sayfa, birbirinden bağımsız kanıt sayılmaz.",
+        "teen": "Yazarı, tarihi ve kanıtı kontrol et. Aynı iddianın kopyalandığı birçok sayfa, birbirinden bağımsız kanıt sayılmaz.\n\nKaynak değerlendirmesinde uzmanlık, yöntem, çıkar çatışması ve doğrulanabilirlik önemlidir. Bir görsel bağlamından koparıldığında yanıltıcı olabilir."
+      },
+      "activity": "Şaşırtıcı bir haber gördüğünde ilk hangi soruyu sorarsın?",
+      "image": "",
+      "minutes": 2
+    },
+    {
+      "id": "marsstory",
+      "category": "stories",
+      "title": "Emir Alp'in Mars görevi",
+      "levels": {
+        "kids": "KURGU • Emir Alp'in robotu kızıl bir taş buldu. “Bu bir canlı mı?” diye sordu. Emir Alp “Önce inceleyelim!” dedi.",
+        "junior": "KURGU • Emir Alp'in robotu kızıl bir taş buldu. “Bu bir canlı mı?” diye sordu. Emir Alp “Önce inceleyelim!” dedi.\n\nKURGU • Robot taşın fotoğrafını ve sıcaklığını kaydetti. Ekip başka örneklerle karşılaştırdı. İlginç bir şekil bulmak, yaşam bulmak demek değildi. En iyi keşif, iyi soruyla başlıyordu.",
+        "teen": "KURGU • Robot taşın fotoğrafını ve sıcaklığını kaydetti. Ekip başka örneklerle karşılaştırdı. İlginç bir şekil bulmak, yaşam bulmak demek değildi. En iyi keşif, iyi soruyla başlıyordu.\n\nKURGU • Emir Alp ekibe üç olasılık önerdi: aşınma, mineral oluşumu veya biyolojik iz. Her birini ayırt edecek ölçümleri planladılar. Sonuç beklenenden sıradandı, ama açıkça kaydettiler: güvenilir bir olumsuz sonuç da bilimi ilerletirdi."
+      },
+      "activity": "Sen ekibin bir üyesi olsan hangi ölçümü önerirdin?",
+      "image": "",
+      "minutes": 3
+    },
+    {
+      "id": "sehirhikaye",
+      "category": "stories",
+      "title": "Geleceğin şehrinde bir gün",
+      "levels": {
+        "kids": "KURGU • Şehrin robotu her yere çiçek dikmek istedi. Emir Alp “Önce canlıların neye ihtiyacı var, bakalım” dedi.",
+        "junior": "KURGU • Şehrin robotu her yere çiçek dikmek istedi. Emir Alp “Önce canlıların neye ihtiyacı var, bakalım” dedi.\n\nKURGU • Ekip güneşi, toprağı ve suyu inceledi. Her yere aynı çiçeği dikmek yerine farklı bitkilere yer ayırdı. Mahallenin sakinleri de plana katıldı.",
+        "teen": "KURGU • Ekip güneşi, toprağı ve suyu inceledi. Her yere aynı çiçeği dikmek yerine farklı bitkilere yer ayırdı. Mahallenin sakinleri de plana katıldı.\n\nKURGU • Akıllı sulama sistemi su tüketimini azaltıyordu, ama sensörlerden biri hatalıydı. Emir Alp verileri gözlemlerle karşılaştırdı. Ekip otomatik kararlara kontrol ekledi ve insanların sistemi anlayabileceği bir açıklama hazırladı."
+      },
+      "activity": "Bir teknoloji işe yarıyor gibi görünse de neden kontrol gerekir?",
+      "image": "",
+      "minutes": 3
+    },
+    {
+      "id": "oruntu",
+      "category": "logic",
+      "title": "Sıradaki adım ne?",
+      "levels": {
+        "kids": "2, 4, 6 dizisinde sayılar ikişer artar. Sonraki sayı 8 olabilir.",
+        "junior": "2, 4, 6 dizisinde sayılar ikişer artar. Sonraki sayı 8 olabilir.\n\nBir örüntüyü açıklayan kural bulmak, sonraki adımı tahmin etmeyi sağlar. Aynı kısa diziye birden fazla kural uyabilir.",
+        "teen": "Bir örüntüyü açıklayan kural bulmak, sonraki adımı tahmin etmeyi sağlar. Aynı kısa diziye birden fazla kural uyabilir.\n\nSonlu sayıda örnek tek bir kuralı zorunlu kılmaz. Basit bir kural seçmek yararlıdır; ancak tahmini kesin bilgi gibi sunmamak gerekir."
+      },
+      "activity": "1, 2, 4 dizisi için iki farklı devam düşünebilir misin?",
+      "image": "",
+      "minutes": 2
+    },
+    {
+      "id": "mantik",
+      "category": "logic",
+      "title": "Bir ipucunun peşinde",
+      "levels": {
+        "kids": "Bir bulmacayı çözmek için bildiklerini sırala. Olamayan seçenekleri ele.",
+        "junior": "Bir bulmacayı çözmek için bildiklerini sırala. Olamayan seçenekleri ele.\n\n“Bütün kareler dört kenarlıdır” doğruysa, bir şeklin dört kenarlı olması onun kesinlikle kare olduğu anlamına gelmez.",
+        "teen": "“Bütün kareler dört kenarlıdır” doğruysa, bir şeklin dört kenarlı olması onun kesinlikle kare olduğu anlamına gelmez.\n\nBir önermenin doğru olması tersinin de doğru olduğunu göstermez. Gerekli koşul ile yeterli koşulu ayırmak mantıksal hataları önler."
+      },
+      "activity": "Her kedi hayvandır. Her hayvan kedi midir?",
+      "image": "",
+      "minutes": 2
+    }
+  ],
+  "quizzes": {
+    "kids": [
+      {
+        "q": "Güneş nedir?",
+        "options": [
+          "Bir yıldız",
+          "Bir gezegen",
+          "Bir bulut"
+        ],
+        "answer": 0,
+        "explanation": "Güneş kendi ışığını yayan bir yıldızdır."
+      },
+      {
+        "q": "Yarım elma hangi kesirdir?",
+        "options": [
+          "1/2",
+          "1/3",
+          "1/4"
+        ],
+        "answer": 0,
+        "explanation": "İki eş parçadan biri yarımdır."
+      },
+      {
+        "q": "Arılar neye yardım eder?",
+        "options": [
+          "Tozlaşmaya",
+          "Taşların uçmasına",
+          "Gece olmasına"
+        ],
+        "answer": 0,
+        "explanation": "Arılar çiçekler arasında polen taşıyabilir."
+      },
+      {
+        "q": "Dünya dönünce ne oluşur?",
+        "options": [
+          "Gece ve gündüz",
+          "Yeni bir Ay",
+          "Yeni bir gezegen"
+        ],
+        "answer": 0,
+        "explanation": "Dünya döndükçe farklı yerler Güneş ışığı alır."
+      },
+      {
+        "q": "Blue hangi renktir?",
+        "options": [
+          "Mavi",
+          "Kırmızı",
+          "Sarı"
+        ],
+        "answer": 0,
+        "explanation": "Blue İngilizcede mavi demektir."
+      },
+      {
+        "q": "Bir cümlede soru varsa sonuna ne gelir?",
+        "options": [
+          "?",
+          ".",
+          ","
+        ],
+        "answer": 0,
+        "explanation": "Soru cümlelerinin sonunda soru işareti kullanılır."
+      },
+      {
+        "q": "Kalbin görevi nedir?",
+        "options": [
+          "Kanı pompalamak",
+          "Işığı görmek",
+          "Yazı yazmak"
+        ],
+        "answer": 0,
+        "explanation": "Kalp kanı vücutta dolaştırır."
+      },
+      {
+        "q": "3 + 4 kaçtır?",
+        "options": [
+          "7",
+          "6",
+          "8"
+        ],
+        "answer": 0,
+        "explanation": "Üç nesneye dört eklersek yedi olur."
+      }
+    ],
+    "junior": [
+      {
+        "q": "Ay kendi ışığını üretir mi?",
+        "options": [
+          "Hayır, Güneş ışığını yansıtır",
+          "Evet",
+          "Yalnız dolunayda"
+        ],
+        "answer": 0,
+        "explanation": "Ay, Güneş ışığını yansıtır."
+      },
+      {
+        "q": "Hangisi asal sayıdır?",
+        "options": [
+          "13",
+          "12",
+          "1"
+        ],
+        "answer": 0,
+        "explanation": "13 yalnızca 1 ve 13 ile tam bölünür."
+      },
+      {
+        "q": "Bir robot mutlaka yapay zekâ kullanır mı?",
+        "options": [
+          "Hayır",
+          "Evet",
+          "Yalnız büyükse"
+        ],
+        "answer": 0,
+        "explanation": "Robotlar önceden yazılmış sabit komutlarla da çalışabilir."
+      },
+      {
+        "q": "Merkür neden en sıcak gezegen değildir?",
+        "options": [
+          "Atmosferin etkisi de önemlidir",
+          "Güneş ışık yaymaz",
+          "Merkür buzdan oluşur"
+        ],
+        "answer": 0,
+        "explanation": "Venüs yoğun atmosferindeki güçlü sera etkisiyle daha sıcaktır."
+      },
+      {
+        "q": "Su molekülü hangisidir?",
+        "options": [
+          "H₂O",
+          "CO₂",
+          "O₂"
+        ],
+        "answer": 0,
+        "explanation": "Su molekülü iki hidrojen ve bir oksijen atomu içerir."
+      },
+      {
+        "q": "Mercanlar hangi gruptadır?",
+        "options": [
+          "Hayvanlar",
+          "Bitkiler",
+          "Mantarlar"
+        ],
+        "answer": 0,
+        "explanation": "Mercanlar hayvandır."
+      },
+      {
+        "q": "Cumhuriyet ne zaman ilan edildi?",
+        "options": [
+          "29 Ekim 1923",
+          "23 Nisan 1920",
+          "19 Mayıs 1919"
+        ],
+        "answer": 0,
+        "explanation": "Türkiye Cumhuriyeti 29 Ekim 1923 tarihinde ilan edildi."
+      },
+      {
+        "q": "Haritadaki ölçek neyi gösterir?",
+        "options": [
+          "Uzaklık oranını",
+          "Hava sıcaklığını",
+          "Nüfusun tamamını"
+        ],
+        "answer": 0,
+        "explanation": "Ölçek harita ile gerçek uzaklık arasındaki oranı gösterir."
+      }
+    ],
+    "teen": [
+      {
+        "q": "Bir modelin yeni örneklere başarısını nasıl ölçeriz?",
+        "options": [
+          "Ayrı değerlendirme verisiyle",
+          "Yalnız eğitim örnekleriyle",
+          "Çıktıların uzunluğuyla"
+        ],
+        "answer": 0,
+        "explanation": "Ayrı veriler genelleme becerisini değerlendirmeye yardım eder."
+      },
+      {
+        "q": "Ay evrelerinin temel nedeni nedir?",
+        "options": [
+          "Aydınlık kısmını farklı açılardan görmemiz",
+          "Her gece Dünya gölgesine girmesi",
+          "Ay ışığının sönmesi"
+        ],
+        "answer": 0,
+        "explanation": "Normal evreler Dünya gölgesinden kaynaklanmaz."
+      },
+      {
+        "q": "Sabit hızlı doğrusal harekette net kuvvet nedir?",
+        "options": [
+          "Sıfır",
+          "Daima artar",
+          "Kütleye eşit"
+        ],
+        "answer": 0,
+        "explanation": "İvme sıfır olduğunda net kuvvet de sıfırdır."
+      },
+      {
+        "q": "HTTPS tek başına neyi kanıtlamaz?",
+        "options": [
+          "İçeriğin doğruluğunu",
+          "Aktarımın şifrelenmesini",
+          "Bağlantı protokolünü"
+        ],
+        "answer": 0,
+        "explanation": "Şifreli bağlantı, iddiaların doğru olduğunu garanti etmez."
+      },
+      {
+        "q": "Fotosentez hangi dönüşümü yapar?",
+        "options": [
+          "Işık enerjisinden kimyasal enerjiye",
+          "Kütleden sese",
+          "Sesten ışığa"
+        ],
+        "answer": 0,
+        "explanation": "Bitkiler ışık enerjisini kimyasal bağlarda depolar."
+      },
+      {
+        "q": "Bir elementin kimliğini ne belirler?",
+        "options": [
+          "Proton sayısı",
+          "Sıcaklığı",
+          "Bulunduğu kap"
+        ],
+        "answer": 0,
+        "explanation": "Çekirdekteki proton sayısı atom numarasıdır."
+      },
+      {
+        "q": "“Bütün kareler dörtgen.” önermesinden ne çıkar?",
+        "options": [
+          "Bir kare dörtgendir",
+          "Her dörtgen karedir",
+          "Hiçbir kare dörtgen değildir"
+        ],
+        "answer": 0,
+        "explanation": "Bir önermenin tersi her zaman doğru değildir."
+      },
+      {
+        "q": "Dil modelinin akıcı yanıtı ne demektir?",
+        "options": [
+          "Doğruluğu ayrıca kontrol edilmelidir",
+          "Kesinlikle doğrudur",
+          "Kaynağı mutlaka vardır"
+        ],
+        "answer": 0,
+        "explanation": "Dil modelleri akıcı ama hatalı metinler üretebilir."
+      }
+    ]
+  }
+}

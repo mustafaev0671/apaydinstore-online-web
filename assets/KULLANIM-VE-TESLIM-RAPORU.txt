@@ -1,0 +1,60 @@
+EMİR ALP APAYDIN — DİJİTAL KEŞİF EVRENİ
+Teslim tarihi: 27 Eylül 2026
+
+YAYINLAMA
+ZIP'in adını index olarak DEĞİŞTİRMEYİN.
+ZIP'i bir klasöre çıkarın. İçinde doğrudan index.html ve assets klasörü görünür.
+Netlify Drop: Bu iki öğeyi içeren klasörün TAMAMINI sürükleyin.
+Yalnız index.html yüklemek görsellerin, stillerin ve oyunların çalışmamasına neden olur.
+cPanel: index.html ve assets klasörünü birlikte public_html içine yükleyin.
+GitHub Pages ve diğer statik barındırmalarda aynı dizin yapısını koruyun.
+Kurulum, npm, Node.js, veritabanı veya derleme gerekmez.
+Bilgisayarda ZIP'i çıkardıktan sonra index.html dosyasına çift tıklayın.
+
+16 MADDELİ TESLİM RAPORU
+1. Tema sistemi: Merkezi yaş profilleri, CSS tasarım değişkenleri ve yumuşak geçişler. Yaş seçimi ilk girişte yapılır; üst menüden değiştirilebilir. Otomatik, açık ve koyu görünüm seçilebilir.
+2. 6–8: Aydınlık robotlu keşif dünyası, büyük yuvarlak kartlar, kısa metinler, oyunların öne çıktığı ana sayfa, renkli yıldız izi, daha az hafıza kartı ve kolay işlemler.
+3. 9–12: Holografik gözlemevi, cyan ağırlıklı cam paneller, enerji izi, orta düzey metin ve oyunlar.
+4. 13–16: Koyu uzay dünyası, sade teknoloji panelleri, ince ağ izi, daha yoğun açıklamalar, daha zor matematik ve kelime görevleri.
+5. Logo: EA monogramı, yörünge ve yön duygusu. Yatay açık/koyu sürümler, kompakt logo, monogram, mobil simge, favicon ve PNG uygulama simgeleri assets/icons içinde. SVG logolar şeffaf zeminlidir.
+6. Mouse: Yaşa göre üç ayrı canvas izi; hafif kart eğimi, ana butonlarda manyetik etki, arka planda parallax ve tıklama halkası. Sistem imleci korunur. Dokunmatik cihazlarda iz kapalıdır.
+7. Menü: Sticky cam header; Öğren, Keşfet ve Bilim mega menüleri; aktif bölüm işaretleri; mobil panel. Hash rotaları tek HTML üzerinden çalışır.
+8. Animasyon: Tema ve bölüm geçişleri, scroll reveal, hover/pressed geri bildirimleri, logo mikro etkileşimleri, yavaş atmosfer parıltısı. prefers-reduced-motion ve manuel hareket kapatma desteği.
+9. Eğitim: 21 kategori, 53 özgün içerik, her biri için 3 yaş düzeyi (159 metin). Hayvanlar, dinozorlar, okyanuslar, Dünya, coğrafya, uzay, bilim, fizik, kimya, biyoloji, vücut, matematik, Türkçe, İngilizce, teknoloji, yapay zekâ, kodlama, tarih, genel kültür, hikâyeler ve mantık. Quiz ve oyunlar ayrı bölümlerdir.
+10. Oyunlar: Hafıza Yörüngesi, Sayı Görevi, Kelime Atölyesi, Doğru Yaşam Alanı, Örüntü Dedektifi ve Gezegen Rotası. Ayrıca etkileşimli Kod Laboratuvarı. Hafıza, matematik, kelime ve örüntü zorluğu yaşa göre değişir.
+11. Quiz: Yaş başına 8 soru, toplam 24 soru; her tur rastgele 5 soru, karıştırılmış seçenekler, açıklamalı geri bildirim, puan, doğru/yanlış ve tekrar oynama.
+12. Arama: Başlık, kategori ve seçili yaş metninde Türkçe harfleri normalize eden istemci tarafı arama. Boş sonuç ekranı ve öneriler vardır.
+13. Favoriler: Kartların yıldızı veya bilgi panelinden ekleme/çıkarma; ayrı koleksiyon ekranı ve kısa bildirimler.
+14. localStorage: Yaş, görünüm, hareket, ses, favoriler, okunan içerikler, quiz rekoru ve yerel editör değişiklikleri. Kişisel bilgi istenmez. Sunucuya kayıt veya cihazlar arası senkronizasyon yoktur. Veriler Tercihler'den silinebilir.
+15. Yapı: Kökte index.html + assets/. CSS, JS, veri, WebP görseller, SVG/PNG simgeler yereldir. content.json ve dosyadan açılış için aynı verinin content.js karşılığı bulunur. Harici CDN, font veya görsel sunucusuna bağımlılık yoktur; sistem fontu kullanılır. Sesler Web Audio ile üretilir.
+16. Netlify: ZIP'i çıkarın ve index.html ile assets'i içeren klasörü Netlify Drop'a bırakın. Ana sayfa ve hash rotaları için sunucu yönlendirme kuralı gerekmez. Yayın adresi belli olduğunda HTML içindeki canonical örneğini kendi adresinizle etkinleştirebilirsiniz.
+
+YEREL EDİTÖR
+Footer > Yerel içerik editörü.
+Başlık, 3 yaş metni, keşif sorusu ve yerel görsel yolu düzenlenebilir.
+Kaydetmek yalnız bu tarayıcıyı etkiler; internet üzerindeki tüm ziyaretçileri etkilemez.
+Yayın güncellemesi için content.json ve content.js dosyalarının ikisini de dışa aktarın.
+Paketin assets/data klasöründeki aynı adlı dosyaları yenileriyle değiştirin ve siteyi tekrar yükleyin.
+Görsel ekliyorsanız dosyayı assets/images içine koyun ve ./assets/images/dosya.webp biçimini kullanın.
+İçe aktarma önce doğrulanır; geçersiz şema veya görsel yolu reddedilir.
+
+TESTLER
+Chrome'da üç yaş profili ayrı ayrı açıldı; arka plan, başlık, içerik ve düzen değişimleri kontrol edildi.
+Arama, bilgi paneli, favori ekleme ve sayfa yenilendiğinde favorinin korunması doğrulandı.
+Quiz beş soru boyunca oynandı; puan ve doğru/yanlış ekranı görüldü.
+Matematik ve kelime oyunları sonuca kadar oynandı; hafıza kartları ve yeniden başlatma denendi.
+Yaşam alanı, örüntü ve gezegen oyunlarında cevap/sonraki görev akışı doğrulandı.
+Kod laboratuvarında tekrar sayısı klavyeyle değiştirilip sonuç üretildi.
+Editörde kaydetme, önizleme, JSON dışa aktarma ve geri yükleme kontrol edildi. İndirilen JSON özgün içerikle karşılaştırıldı.
+Masaüstü ve 390/320 piksel dar ekranlar ile yatay ekran düzenleri incelendi. Mobil menü ve gezegen paneli denendi.
+Hareket kapatma, görünüm seçimi, menüyü Escape ile kapatma ve bilinmeyen rota ekranı kontrol edildi.
+Site kaynaklı konsol hatası görülmedi. JavaScript sözdizimi, yerel dosya yolları, veri tutarlılığı ve ZIP yapısı doğrulandı.
+Fiziksel Android/iPhone ve Safari/Firefox üzerinde ayrı cihaz testleri yapılmadı. Netlify hesabında canlı yayınlama işlemi yapılmadı; aynı statik dosyalarla önizleme ve paket yapısı doğrulandı.
+
+BİLİNMESİ GEREKENLER
+Sesli okuma cihaz ve tarayıcının Türkçe ses desteğine bağlıdır; otomatik başlamaz. Tarayıcının ses sağlayıcısı kendi çevrimiçi hizmetini kullanabilir.
+Manifest ve uygulama simgeleri vardır; servis çalışanı ve çevrimdışı PWA önbelleği eklenmemiştir.
+Uzay ve keşif arka planları özgün yapay zekâ sanat çalışmalarıdır; bilimsel fotoğraf değildir. Gezegen diyagramında ölçek kullanılmaz.
+Hikâyeler kurgudur. Kaynak bağlantıları site içindeki Kullanım ve kaynaklar bölümündedir.
+
+© 2026 EMİR ALP APAYDIN — TÜM HAKLARI SAKLIDIR.
